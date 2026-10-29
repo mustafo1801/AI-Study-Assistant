@@ -1,15 +1,12 @@
-Product Vision 
+Product Vision:
 
-Product Name
+Product 
+Name:AI Study Assistant
 
-AI Study Assistant
-
-Vision
-
+Vision:
 AI Study Assistant is an intelligent web application designed to help students understand academic topics, find answers to study questions, and improve their learning experience using artificial intelligence.
 
-Problem
-
+Problem:
 Students often struggle to understand complex academic concepts, find reliable explanations, and prepare for exams. Searching across multiple websites can be time-consuming and confusing.
 
 Target Users
